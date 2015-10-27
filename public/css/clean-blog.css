@@ -397,6 +397,10 @@ body {
 }
 
 .thumbnail{
-  height: 810px;
+  height: 660px;
+}
+
+.webApp img:hover{
+  opacity: 0.4;
 }
 
