@@ -404,3 +404,12 @@ body {
   opacity: 0.4;
 }
 
+ul{
+  list-style-image: url('../img/square.gif');
+}
+
+.center{
+    width:300px;
+    margin:0 auto;
+    text-align:left;
+}
